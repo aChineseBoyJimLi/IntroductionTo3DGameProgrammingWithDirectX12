@@ -1,2 +1,3 @@
-# IntroductionTo3DGameProgrammingWithDirectX12
+# Introduction To 3D GameProgramming With DirectX12（Translation）
 基于DirectX12的3D游戏指南（翻译）
+
