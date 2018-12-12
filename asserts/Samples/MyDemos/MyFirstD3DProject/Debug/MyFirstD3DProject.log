@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+e:\code asserts\cg\directx\introductionto3dgameprogrammingwithdirectx12\asserts\samples\common\d3dutil.cpp(30): warning C4244: “参数”: 从“std::streamoff”转换到“SIZE_T”，可能丢失数据
+e:\code asserts\cg\directx\introductionto3dgameprogrammingwithdirectx12\asserts\samples\common\d3dutil.cpp(70): warning C4244: “=”: 从“UINT64”转换到“LONG_PTR”，可能丢失数据
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  BoxApp.cpp
+  正在生成代码...
+  MyFirstD3DProject.vcxproj -> E:\Code Asserts\CG\DirectX\IntroductionTo3DGameProgrammingWithDirectX12\asserts\Samples\MyDemos\MyFirstD3DProject\Debug\MyFirstD3DProject.exe
